@@ -1,0 +1,1 @@
+{"virtualbox":{"/chef-repo":{"guestpath":"/chef-repo","hostpath":"/Users/igordumchykov/Projects/Tutorials/chef/getting_started/data","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/igordumchykov/Projects/Tutorials/chef/getting_started","disabled":false,"__vagrantfile":true}}}
